@@ -1,0 +1,2 @@
+# AutomatizacionPowerShell
+Ejercicios PowerShell
