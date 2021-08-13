@@ -30,9 +30,9 @@ Import-Module vmware.vimautomation.cloud -force -ErrorAction Stop
 Import-Module VMware.VimAutomation.Vds -force -ErrorAction Stop
 
 # Declaration Creds
-$VCenterAddress = "vcdtc" + ".ifxcorp.com"
-$User = "powerclicloud@ifxcorp.com"
-$Password = "CLOUD-hk1167pi"
+$VCenterAddress = "<A-VCENTER>"
+$User = "<AN-USER>"
+$Password = "<A-PASSWORD>"
 #$vmid = "VirtualMachine-vm-"+$Vmid
 $vmid = "VirtualMachine-vm-"+12207
 
